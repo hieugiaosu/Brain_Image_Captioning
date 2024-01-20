@@ -41,8 +41,6 @@ We use some famous LLMs model to evaluate our model, using a prompt in slide rep
 
 ## Citations
 
-[1] To cite the ROCO dataset, please use:
-
 ```bibtex
 @inproceedings{roco_dataset,
   title={ROCO: a dataset of images with radiology reports in context},
@@ -55,6 +53,7 @@ We use some famous LLMs model to evaluate our model, using a prompt in slide rep
   doi = {10.1007/978-3-030-01364-6_20},
   year = {2018}
 }
+
 @article{Microsoft_git,
   title={GIT: A Generative Image-to-Text Transformer for Vision and Language},
   author={Jianfeng Wang and Zhengyuan Yang and Xiaowei Hu and Linjie Li and Kevin Lin and Zhe Gan and Zicheng Liu and Ce Liu and Lijuan Wang},
